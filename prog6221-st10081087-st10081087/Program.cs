@@ -84,6 +84,12 @@ namespace prog6221_st10081087_st10081087
             recipe.DisplayRecipe();
         }
     }
+   // References:
+// https://youtu.be/aripIuUPO-Q?si=nWZsEDPM9Qlg6gq2
+//https://stackoverflow.com/questions/tagged/c%23
+//https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/
+//https://www.w3schools.com/cs/cs_classes.php
+ 
 }
 
 
