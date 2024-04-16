@@ -52,7 +52,8 @@ namespace prog6221_st10081087_st10081087
 
         public void ResetQuantities()
         {
-            // Reset quantities to original values if needed
+
+            
         }
     }
 
